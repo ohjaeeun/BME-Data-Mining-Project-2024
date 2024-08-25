@@ -6,8 +6,7 @@
 ## Data Set 
 이 프로젝트에서 사용된 데이터는 Kaggle에서 제공되며, 248,000개 이상의 약물 
 정보와 부작용, 대체품, 다양한 분류 정보가 포함되어 있습니다. 
-https://www.kaggle.com/datasets/shudhanshusingh/250k-medicines-usage-side
-effects-and-substitutes/data  
+https://www.kaggle.com/datasets/shudhanshusingh/250k-medicines-usage-sideeffects-and-substitutes/data  
 ## 요구사항 
 -Python -Pandas -Matplotlib -Numpy -Scipy 
 ## 실행 방법 
